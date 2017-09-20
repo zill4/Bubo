@@ -1,0 +1,212 @@
+USER,FAVORITES,RETWEETS,TEXT
+Slack,0,0,@willcharczuk Oh, uploaded .webm files should auto-expand like you'd expect, but properly unfurling .webm links are also on our list! 🎉
+Slack,0,0,@gauravphoenix Well, drat. In that case, would you be able to drop feedback@slack.com a line so we can dig deeper into what's going wrong? 💌
+Slack,0,0,@B_Meson Hrmm, odd. Is that happening in both a browser and one of our desktop apps? Does it change size while you have the channel open? 🤔
+Slack,0,0,@ryanvarick Right! Makes sense to us. ✨📣
+Slack,0,0,@rmgenson Oh, no, sorry to say that's a known issue with the app, Rachael. It's on our radar, though, and we're hoping to fix it up soon! 🐛
+Slack,0,0,@vyscond We’re exploring this idea, so stay tuned! 🎶
+Slack,0,0,@billhelm  Sorry for the trouble! It’s not currently on the roadmap, but we’ll consider it for the future. Thanks for the suggestion! 🙏
+Slack,1,0,@schultetonya  You’re making us blush! 😍
+Slack,2,0,@adriana_howell  Cheers! 🍹🙌
+Slack,0,0,@vykromond We've made some changes to how archives are launched, but the links should work in your browser from IRC.
+Slack,0,0,@evolvability A team admin can turn on the "shuffle" feature for Giphy. That way you can decline to post gifs you don't like.
+Slack,0,0,@kirabug That's no good! Please get in touch at feedback@slack.com and our iOS team will take a look.
+Slack,0,0,@gauravphoenix 🤔 Can you try refreshing the app and see if you get the same result?
+Slack,1,0,@agisilaosts We're sorry for the trouble. Better offline, low-bandwidth, and intermittent connection support are all planned.
+Slack,0,0,@ryanvarick Sorry, not sure we understand. You want different preferences for DM notifications than you have for channels?
+Slack,0,0,@topikito  Also, you can disable rich media in Preferences > Messages & Media > Inline Messages & Links.
+Slack,0,0,@topikito We have another tip to share! Try typing /collapse to minimize animated gifs and rich media in channels. 👍
+Slack,0,0,@ryanvarick Certainly! In the DM, click the Settings cog button > Notification preferences > All new messages. 👍
+Slack,2,0,@DP_CyberCrime No immediate plans to change this, but thank you for the suggestion. We'll share it with the team. 🙇
+Slack,0,0,@DP_CyberCrime That is the minimum length, but we recommend following this handy guide for creating safe passwords: https://t.co/xrPTvjaSkY
+Slack,0,0,@vasuchawla Ah, afraid it's not possible right now, but it's a great suggestion. We'll share it with the team!
+Slack,0,0,@goldiesquats Oooh. We don't have it yet, but the API is there if you're interested in building it! https://t.co/7ricUn6DcJ
+Slack,1,0,@ALR42 That's an idea! 💡Thanks for sharing this with us! 👍
+Slack,0,0,@erinlauraoneil 🤔 Are you trying to delete a private channel perhaps? At this time, it's only possible to archive private channels.
+Slack,0,0,@sarahspoon It shouldn't, sorry. Can you go to iOS Settings > Slack > enable Reset Cache on Next Launch > let us know if a re-launch helps?
+Slack,0,0,@notthatnathan Super weird. Glad to hear it's fixed, but do let us know if it happens again. ¯\_(ツ)_/¯
+Slack,1,0,@benwiley4000 Fair! We'll pass your feedback along to the team.
+Slack,1,0,@patleeman Ah gotcha! Yep, it's custom alright!
+Slack,0,0,@ChrisCharabaruk We see what you mean there! Thanks for the suggestion too. We'll pass this along. 🙇
+Slack,0,0,@bvhme We feel it’s important that work teams have a channel where everyone can be reached! If you like, you can mute the channel! 💡
+Slack,1,0,@john_fisherman That's really good feedback! We'll look into making that better. Thanks for sharing!
+Slack,0,0,@topikito 😕 We're working on improvements in this area. For now, restarting Slack may help!
+Slack,0,0,@sarahspoon 😭 Which version of Slack you're using? We'll look into this.
+Slack,4,0,@BenRCongdon Could be indeed 🤔. We'll pass your thoughts along!
+Slack,0,0,@mattvogt Hmm… are you on Windows perhaps? There's a bug we're looking into around shift-esc at the moment.
+Slack,1,0,@EricMarkDo 🌈✨
+Slack,0,0,@elbutler Hmm… definitely sounds like a bug. Would you mind dropping a line to feedback@slack.com with some details?
+Slack,0,0,@gmcconnaughey 💡 That's an idea! We'll give this some thought. 😃
+Slack,0,0,@benwiley4000 We appreciate the feedback! If it helps at all, it also puts in a modifier limiting the search to your current channel.
+Slack,1,0,@kplanz Haven't planned on it, no, but we're keeping our options open for the future. Thanks for letting us know how it's running for you! 🙇
+Slack,0,0,@thenameisnat0 Ah! Yes, we're afraid that isn't going to work. Sorry about this! You'll need to contact a team Owner or Admin to join. 🎈
+Slack,0,0,@AsherDeVuyst You're too kind! (We hope we're not failing too often, though!) 🌈🌲
+Slack,1,0,@rafaelderolez Ah yes, that would be one of the quirks of Hangouts emoji! We're sorry that we can't make the labels match this set better.
+Slack,1,0,@GroundControl They're coming! We're hoping to add the iOS 10 batch soon. Sorry about the delay! 🐙✨
+Slack,0,0,@JoshAllegro Still every 5 minutes! (Is that not what you're experiencing, though? Let us know if you're having trouble!) 🍦
+Slack,0,0,@Eva_CdA Thanks! We have a soft spot in our hearts for that old @playglitch forest. 🐖🌈🌲💖
+Slack,0,0,@ikB3N No bribes required, just a bit of API finagling! Our blog has some basic instructions to get you started: https://t.co/l4y7jxI435
+Slack,0,0,@PhillippOh 🙌
+Slack,0,0,@username081 Thanks for writing in — one of our specialists is taking a look and will be in touch via email asap.
+Slack,0,0,@PhillippOh Ooh, that's not ideal! If you drop us a line to feedback@slack.com we can take a closer look for you! 🙏
+Slack,1,0,@laurahannawhite Alas, after the Battle of Dustball Gulch, we’re no longer allowed to have sticks at work, dusty or otherwise.
+Slack,0,0,@username081 Hmm, if you drop us a line to feedback@slack.com we'll take a closer look at the situation!
+Slack,0,0,@username081 From the screenshot it looks as though that's a reminder sent by someone else on the team, so your Team Owners can take action.
+Slack,0,0,@FactDeJour Phew, glad to hear it! On the latest version (v2.6.3) you should also be able to use the right-click option. ✨
+Slack,0,0,@NimaiMalle Ah, that's a good point. We'll definitely think about it! 🌸
+Slack,0,0,@FactDeJour Oh no! What exactly are you seeing — is this using the right click menu or cmd/ctrl + v?
+Slack,1,0,@adrianorbs Thanks for the suggestion — much appreciated 🙌
+Slack,1,0,@JeffGlueck Sorry for the trouble! Would you mind sending us details of the problems you're seeing? https://t.co/bxxJ5hHg7X
+Slack,4,0,@HannahOmid @dens We know it's not the best experience right now, sorry! It's an Electron issue we're looking at. 🐛
+Slack,0,0,@joewalshrocks Oof, not ideal! Thanks for letting us know about this — it's certainly something for us to consider.
+Slack,0,0,@dtuite We hear you, and are exploring how reminders can be improved, so stay tuned! 📻
+Slack,1,0,@fhendrie Gotcha. It’s not currently on the roadmap, but (for the Jensen gif) we’ll consider it for the future. ✨
+Slack,0,0,@astroaware More info! https://t.co/npkXTJjKGy
+Slack,0,0,@astroaware You can pin Posts to channels, and share them so they're editable by all 📝👩‍👩‍👧‍👧📌
+Slack,0,0,@fhendrie Groups as in kinda sorta like folders, do you mean?
+Slack,1,0,@ndxcc Cripes — sorry about that! Could you drop us a line so we can look into things? https://t.co/bxxJ5hHg7X
+Slack,0,0,@joewalshrocks Oh dear — it isn't — sorry about that! We'll note for the team that there are visual differentiation issues here.
+Slack,0,0,@tdmalone But we certainly take the feedback on board. Sorry for the frustration 🙌
+Slack,1,1,@tdmalone Sorry for the delay! No, it wasn't something we announced. We reason most people will want to do things in Slack…
+Slack,0,0,@timjreynolds Sorry about that! Does refreshing your team with Ctrl/Cmd R help? Please drop us a line if not: https://t.co/bxxJ5hHg7X
+Slack,0,0,@joewalshrocks Hello! No, alas! But an Admin can change the team icon, if that's the icon you mean: https://t.co/AVAi3UnNT9
+Slack,1,0,@Brammm You can't, but it's an interesting idea — thanks! 🤔🙇‍♀️
+Slack,0,0,@godling_zlm Not ideal, but you could temporarily zoom with Ctrl/Cmd = 🤔 (And you can return to default zoom with Ctrl/Cmd 0)
+Slack,0,0,@Gyunlim Oh sorry — misunderstood! There isn't — sorry about that 🙌
+Slack,0,0,@evilneuro That's so good to hear … on balance 😅🙌😱
+Slack,0,0,@roccetry This isn't on our immediate roadmap, sorry — but we'll certainly note your feedback for the team 🙌
+Slack,0,0,@Gyunlim Might just be a case of talking to a Team Owner or Admin to get this created, depending on team settings 👍
+Slack,1,2,@vineetkaul Oh! On desktop, if you go to Preferences > Messages & Media > and untick the 'Convert Emoticons' option, does that help things?
+Slack,2,0,@z_anderle Ah, so sorry, Žan. We're afraid that's the case for now. We know there's a lot to improve when it comes to managing many teams. 😔
+Slack,0,0,@patleeman Thanks for the love! Is this the new input on mobile apps? We can't reveal too much, but we really appreciate the feedback!
+Slack,0,0,@alpennec 💖
+Slack,0,0,@I_am_Dan_Ellis So sorry, Dan. This is a known issue that we're hoping to fix as quickly as possible. Having to read it 10 times is no good.
+Slack,1,0,@alpennec 👋 Mind asking this question through feedback@slack.com? We'll be able to explain better without the character limit!
+Slack,0,0,@username081 We'd recommend speaking to your Team Owners or Admins, but we're always available at feedback@slack.com or /feedback.
+Slack,0,0,@teppo You got it. Thanks for your patience! 🙇
+Slack,1,1,@big_roof Any time! 🐻
+Slack,0,0,@notthatnathan Ah, in Slack, click 'Slack' in the top toolbar, then 'About Slack'. Our latest v2.6.3 may fix this! https://t.co/RvUnYTicJJ
+Slack,0,0,@Gyunlim Default channels for User Groups already exists! 🎉 More info on our Help Center: https://t.co/hcACFGYqyZ
+Slack,1,0,@nickansel Gotcha! On desktop, does Preferences > Messages & Media > 'Show images and files...' > 'Even if they're larger than 2MB' help?
+Slack,1,0,@JamesSLock Hmm, would you mind writing in so we can take a look? Sounds rather odd and we'd love to help! Here ➡️ https://t.co/bxxJ5hHg7X
+Slack,0,0,@beckerben Ah, fair point. We'll feedback this to the team. Thanks for letting us know and apologies for the oversight! 🙏
+Slack,0,0,@liubinskas Ugh, sorry you had to go to those lengths. Glad to hear you're back up and running though.
+Slack,0,0,@jimmyzelinskie Ah, yikes! So sorry. Turns out you've run into a known bug we're currently working to fix. Please hang tight! 🏄
+Slack,0,0,@JamesSLock Oh no! 🙈 Sorry for the grossness. What version of the iOS app are you currently using?
+Slack,0,0,@ChrisCharabaruk For now, it is available in the direct download version: https://t.co/Rvzftwbhdb
+Slack,0,0,@ChrisCharabaruk It's not something we've gotten around to implementing in the Windows Store app just yet. 📝 We'll pass the request across.
+Slack,0,0,@aimee_ebooks Hmm, are you up-to-date or is it that new unread messages are not loading? 🕵️
+Slack,0,0,@nickansel Ahh, you'd like to see the size of the GIF before you post it? Was it from an integration, an uploaded image, or URL?
+Slack,0,0,@chrislorensson Head to https://t.co/dgHMiuFSdY to pick up a pair and support a great cause. 👌✨
+Slack,0,0,@celsodantas We're really sorry for the hassle. 😔 We'll keep working on it! If you have any further trouble, please let us know.
+Slack,1,0,@alpennec Thanks, Axel!
+Slack,1,0,@agisilaosts Ugh, we're so sorry. Is this on desktop or mobile? Mac, Windows, Linux? Android or iOS?
+Slack,1,0,@dougblackio We can sure consider it, thanks for the feedback! 🙇
+Slack,1,0,@DavidMuroII That's quite the interesting thought. 💡 We'll definitely take the suggestion on board, thanks for reaching out! 🙇
+Slack,1,0,@alpennec Too easy! We'll keep you posted. 💌
+Slack,0,0,@celsodantas Sorry, friend. Please try swiping right-to-left to open the menu, then Settings > Advanced > Reset Cache. Does that help? 🤞
+Slack,1,0,@picsoung Nifty! 🤖🎈
+Slack,0,0,@DaleskaPr We're so sorry! Can you please try refreshing with ctrl/cmd + R if you're still experiencing troubles?
+Slack,0,0,@djshiow Oh, the horror! 😱 Maybe a custom emoji in your status will fill the gaping void. https://t.co/Tly0GdV0H8
+Slack,0,0,@jake_quade Nice! ⬛️⚪️🍃
+Slack,1,0,@jake_quade Oh you flatterer, you! Do you have a fantastic custom theme? Share with the class! 🎨💻
+Slack,0,0,@alex112269 Oh brilliant, we hope it helps! If not, just give us another shout and we'll lend a hand. 🔊
+Slack,1,0,@sujdark Ooooh, great suggestion. We'll make a note of this for future development! In writing, for now. 😅
+Slack,0,0,@CocoKur Hmm, we’re not quite sure what you’re looking for, but if you drop a note to feedback@slack.com we can see what we can share! 🙏
+Slack,1,0,@jake_quade 🐱💭🌃💙
+We'll let the team know that this is something you'd like to see. Thanks, Jake!
+Slack,0,0,@MykeBates We'll consider it! However, this is something that's not likely to change any time soon, unfortunately. Sorry about that, Myke.
+Slack,1,0,@alpennec Want us to tweet you when we have a fix? 🙏
+Slack,0,0,@alpennec We apologize for the troubles here! We're looking into fixing this so that it requires fewer taps to answer on iOS.
+Slack,1,0,@eggsbuttersugar Great feedback! We see how this would be helpful, and we'll pass your tweet along to our Mac desktop folks. 😉
+Slack,1,0,@SuperTonic64 Not at the moment, sorry! Suggested statuses can only be set at the team level. 💁🏼
+Slack,3,1,@RuePee @KristyT Ah, we're afraid that we won't be streaming or recording this event, but we're hoping to write a blog post post-event. ☺️
+Slack,1,0,@ryanvarick Or were you looking to set unique DM notification preferences on a one-by-one basis, like you can do for channels?
+Slack,0,0,@ryanvarick Hmm! You can set your notifications for DMs and keywords only. Does that work? It's under Preferences > Notifications.
+Slack,1,0,@bobschwenkler @joy014 Pssst. We made this happen for you. Refresh your app with Cmd/Ctrl + R to play m4a files in Slack now. 😉
+Slack,1,0,@iamtherealcmk Thanks for the suggestion! We see how one unified account would be supremely handy for you.
+Slack,0,0,@teppo It's a bug! And it affects all audio files on iOS, not just WAV files. Sorry, we'll fix this – want us to tweet you when it's done?
+Slack,0,0,@alex112269 Oh no, we're so sorry! Are you still having troubles? If so, which version of the app are you seeing this on? 🙏
+Slack,0,0,@bobschwenkler @joy014 Ah, no, .m4a files aren't supported yet! Sorry, Bob. We'd like to offer this ability for .m4a files in the future.
+Slack,0,0,@6byNine Ah, we see what you mean! Sorry for any confusion - we've passed this along to our team for a closer look! 👀
+Slack,0,0,@MykeBates Not at the moment, we're afraid. We've only allowed certain widely-adopted services to display inline HTML and play media. 🙁
+Slack,0,0,@mtjmelody Ack, are you referring to the "Find my Team" email? 😞
+Slack,1,0,@NicholasNConrad Thanks for the suggestion! We see what you mean and we'll give it more thought. 🙇🏻
+Slack,0,0,@f1xedgear Sorry about that! There's no way to turn it off, as Slackbot is designed to be a helper bot who responds to your messages. 😣
+Slack,0,0,@BlnaryMlke That's fair. We'll keep noodling on how we can keep folks from different teams connected while preserving the team structure.
+Slack,0,0,@kpfefferle We're afraid that's a desktop-only preference for now. Sorry about that, Kevin. Perhaps in the future. 😓
+Slack,0,0,@sarbbottam You can check your team's Admins and Owners from https://t.co/Pixhy359hq > click on "view admins".
+Slack,0,0,@sarbbottam For now, could you perhaps invite a team Admin (not necessarily an Owner) into the channel so they can archive it?
+Slack,0,0,@sarbbottam Oof. We agree, that's bad. We're planning on fixing this.
+Slack,0,0,@nileshtrivedi Oh! A team Admin or Owner will need to get in touch with us at feedback@slack.com to request a shared invite link first. 😉
+Slack,0,0,@daphne_mir Oh, y'know. Mostly because of reasons. And stuff. 😇
+Slack,1,0,@EM_marketing Could you kindly drop us a note at feedback@slack.com? Our Specialists would like to take a closer look at this! 💫🚀
+Slack,0,0,@jugrand Time for a midnight snack! 🍧
+Slack,0,0,@NotZombies 😕 Would you mind writing in to feedback@slack.com? We'd like to investigate this.
+Slack,0,0,@lwaldal We see why it could be handy to automatically adjust this. Thanks for sharing this suggestion! 👍
+Slack,0,0,@lwaldal The app should adjust the timing of your messages but adjusting your profile timezone is a manual step. 🙁
+Slack,0,0,@terceravencida ¡Lo sentimos! ☹️ Mira al FAQ de PlusPlus: https://t.co/pGJvx2KB1D o los puedes contactar a ellos a support@plusplus.chat.
+Slack,1,0,@alyssamazzina ...been no activity for the last week. We hope this helps! 🎀 2/2
+Slack,1,0,@alyssamazzina Aha! A DM will be removed from your sidebar if there's no unread messages, it hasn't been opened lately, and there's... 1/2
+Slack,1,0,@jayman Yuck. 🚫⚪️ Would you mind dropping us a message at feedback@slack.com so we can take a look under the hood?
+Slack,0,0,@jshiplett We don’t have that data available, but we do listen to all user feedback. We’ll be happy to share your thoughts with the team. 🙇
+Slack,0,0,@itsQuietEarp Sorry for the hassle! Check out this article from our Help Center for step-by-step instructions: https://t.co/FqmSyx2g39
+Slack,2,0,@riklomas Ah, we see what you mean. We'll pass this onto the team for a look! 🔍👀
+Slack,0,0,@aSloppyJo3 Jeepers, that sounds buggy. We'd like to investigate this – could you kindly drop us a line at feedback@slack.com? 💌🐛
+Slack,0,0,@vasantkumar Noted! No plans to share at the moment, but we'll pass your thoughts to the team. Thanks for sending your feedback our way! 📚
+Slack,0,0,@ParkerNielsen Oh, that would be wonderful! No plans to share at the moment but we'll let the team know you'd like to see this happen. 📸
+Slack,0,0,@domurtag Sorry about that! If you head into your System Prefs > General and toggle your default browser, does that fix the issue?
+Slack,0,0,@TheJoWo So if you have more than 10 active DMs going, Slack should keep them all open. Is that not happening for you?
+Slack,0,0,@TheJoWo Looks like we had it wrong. Slack will display all recent active conversations and close DMs with no activity over time.
+Slack,0,0,@daveixd @TrueHarlequin @DesignerHangout Turning that feature off is a team setting! Talk to an owner or admin: https://t.co/L15Q1EAh7K
+Slack,0,0,@iservin 👍
+Slack,0,0,@matthaggerty Oh dear! Could you please try resetting your cache, or dropping us a line? feedback@slack.com
+Slack,0,0,@outlandishjosh  😱 Yikes! Are you able to connect to Slack via a browser?
+Slack,0,0,@BlnaryMlke We're listening! While Slack is intended for closed work groups, we'll be happy to pass your feedback on.
+Slack,0,0,@6byNine Each grey line under the date indicates a separate incident. Is that what you're referring to?
+Slack,0,0,@sarbbottam Good grief, sorry for the frustration. Your Team Owner can change that setting at https://t.co/zFsyMlLi7M. 🌸
+Slack,1,0,@ThatHarmanSingh Oh, that really would be easier to view for a long list of keywords. We'll pass that feedback along. Sorry! 🙏
+Slack,0,0,@notthatnathan Yikes, sorry for the trouble! What version of the app are you running?
+Slack,0,0,@KWarren Rats. Would you mind dropping us a note at feedback@slack.com some more investigation? 🤔📬
+Slack,0,0,@ChrisCharabaruk Unfortunately this is not possible right now – but we hear you! That would be handy.
+Slack,6,0,@LauraHayesDC :blush: We'll pass that along to her manager. 
+
+(Or rather, to use first person for once, I'll pass t… https://t.co/1Np1eUeWNR
+Slack,0,0,@openjck We definitely hear you. It's something we've discussed and certainly would make life easier if you're on multiple teams.
+Slack,1,0,@LessIsMoi If you go into that channel and type `/remind list`, you'll see the channel-specific reminders listed along with delete links.
+Slack,1,0,@fahrenq Yikes, sorry for the frustration – but thank you for sending this our way! Feedback noted. 📝🙇
+Slack,0,0,@jimmyzelinskie 😬 Really sorry. Is this on mobile? If so, which device?
+Slack,0,0,@alyssamazzina DMs stay open even if the other side closes them. Do you have the setting on to only view channels/DMs with unread messages?
+Slack,0,0,@iservin Definitely not fun. 😞 To help troubleshoot, can you log into Slack through Chrome and see if the same thing happens there?
+Slack,0,0,@domurtag Huh. And links from Slack are opening in a brand new window instead of just a new tab of an existing window?
+Slack,0,0,@CocoKur A survey conducted within Slack? You might want to look through the App Directory. For example: https://t.co/zSOpHt4AtP
+Slack,0,0,@jasonmulligan Mmm, copy/pasta sounds delicious! 🍝 😋 Are snippets a possibility for you here? https://t.co/BvrXwLu2JR
+Slack,0,0,@nerdgirl We designed it to match All Unreads, though it can be a bit confusing since it is different than all channels. 😬 Sorry! 🙏
+Slack,0,0,@jayman 🤔 Try pressing `Shift + Esc` in that team to mark everything as read. If that doesn't work, clear the cache: `Help > Clear Cache`
+Slack,1,0,@jordan_ryan Ah we see. We're making incremental changes to memory use as often as we can. Thanks for your patience!
+Slack,0,0,@emad_younis 👋 Muting and blocking of individual Slack team members is not something we have plans for. We'll note the request though!
+Slack,1,0,@JSn1nj4 It's something the team is considering carefully!
+Slack,1,0,@venatiodecorus We appreciate the feedback and we'll pass it on!
+Slack,5,1,@LauraHayesDC This is a good public service you are performing. But that ain't no robot. Just someone here at Slack.
+Slack,0,0,@EM_marketing You can choose your account on setup. However, you can only have one Asana account associated with Slack at a time.
+Slack,0,0,@jordan_ryan Ah, have you tried "snoozing" them? https://t.co/ELuFDoqR2q
+Slack,0,0,@nerdgirl Ah, that's because threads always open at the top. This is an interesting point, though: we'll pass it along to the team here! 📝
+Slack,1,0,@HoldenthePage Thanks for flagging this. Our security team is aware and working on the issue.
+Slack,0,0,@higgis Hrmm, that's no good. To clarify, is this happening in one of our desktop apps, in a browser, or on your mobile device? 🤔
+Slack,1,0,@sonyybalonyy 👍
+Slack,0,0,@lwaldal Oh, no! Have you even gone into your profile and adjusted your time zone there? 😞
+Slack,0,0,@steve_lacy Thanks for letting us know! If it happens again please check what version you are running and update if possible. 🙌
+Slack,0,0,@nate23 So sorry about this! Could you please write in so we can get some information? feedback@slack.com 🙌
+Slack,0,0,@gonedark Restarting the app should cut that DM list down to 10 names + Slackbot, and hopefully you can trim things down from there! ✂️
+Slack,1,0,@risiofficial Oh we are. We like everyone! 🌼
+Slack,0,0,@TheArchivum Oh, you can't make a private channel public, alas. You'd have to spin up a whole new channel in that case!
+Slack,0,0,@TheJoWo ...around! ⭐️ 2/2
+Slack,0,0,@TheJoWo You'll always get reset back to 10 after restarting, sadly. You can star the important DMs, though, so
+ they always stick... 1/2
+Slack,0,0,@garethkbc Absolutely! If it doesn't fit in140 characters, drop us a note at feedback@slack.com? 💖
+Slack,1,0,@RyanGWilson Ah, yes, unfortunately. This bug is on our radar, though, and we're hoping to get it all fixed up very soon! 📂😓
+Slack,0,0,@sgulbetekin Oh, no! We were having some trouble with this earlier, but everything should be A-OK now. Are you still running into this? 😞
+Slack,0,0,@DanielGonzo2016 You could use User Groups for this! For more info on those… https://t.co/ZKQJK378Fr
+Slack,1,0,@xtinaashbaugh Oh! That's a lot of pressure. We're just glad to be helping! 😅
+Slack,1,0,@jphenow Oh, yikes! Looks like the app is suddenly missing its style data. Is that persisting after refreshing or clearing out its cache? 😬
+Slack,0,0,@kpeckett Thanks for letting us know! Things should indeed be working normally aga
